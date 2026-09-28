@@ -1,5 +1,6 @@
-vanshikha
+# `vanshikha`
 
+```python
 #!/usr/bin/env python3
 
 class CybersecurityEngineer:
@@ -25,6 +26,7 @@ class CybersecurityEngineer:
 me = CybersecurityEngineer()
 
 print(f"{me.name} | {me.role}")
+
 
 About Me
 
@@ -56,7 +58,29 @@ Development
 .NET · Git · GitHub · Linux · Windows
 
 Selected Projects
+AWS IAM Security Misconfiguration Scanner
 
+Python-based security automation tool for identifying and analyzing AWS IAM security misconfigurations.
+
+Automated Vulnerability Assessment & Security Risk Analyzer
+
+Modular security assessment pipeline covering asset discovery, service enumeration, vulnerability identification, evidence validation, risk prioritization, and security reporting.
+
+Ransomware Detection & Response Service
+
+Collaborative Windows ransomware detection system built with C# and .NET 8, using honeytoken deception, ETW-based monitoring, cryptographic API monitoring, signal correlation, and automated containment.
+
+IRCTC Booking Threat Model
+
+Threat-modeling project focused on identifying attack surfaces, threats, security controls, and potential risks within an online railway booking system.
+
+CTI-Driven Security Automation
+
+Security automation project exploring the use of Cyber Threat Intelligence to support automated security analysis and IAM-related security controls.
+
+Experience & Activities
+
+Selected Projects
 AWS IAM Security Misconfiguration Scanner
 
 Python-based security automation tool for identifying and analyzing AWS IAM security misconfigurations.
@@ -89,3 +113,4 @@ IEEE Eu-Reka
 Connect
 
 LinkedIn · Email
+
